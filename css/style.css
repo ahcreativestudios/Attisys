@@ -166,7 +166,7 @@ a.fa.fa-angle-down:hover{
 }
 /* About Section */
 #tf-about{
-	padding: 80px 0;
+	padding: 80px 0 0 0;
 }
 ul.about-list{ margin: 30px 0 0 ;}
 ul.about-list li{
@@ -570,3 +570,4 @@ nav#footer p{
 	background: #FCAC45;
 	border-color: #FCAC45;
 	color: #ffffff;
+}
